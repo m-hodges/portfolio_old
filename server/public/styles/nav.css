@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'blade-runner';
+  src: url('/fonts/blade_runner_movie_font/BLADRMF_.TTF');
+}
+
+
 .nav {
-  width: 75px;
+  width: 85px;
   height: 100vh;
   background-color: rgb(27, 27, 27);
   display: flex;
@@ -36,8 +42,10 @@ p {
   color: cyan;
   margin-top: 2.5px;
   margin-bottom: 0px;
-  font-family: 'Inconsolata', monospace;
-  font-weight: 700;
+  font-family: 'blade-runner';
+  /* font-family: 'Inconsolata', monospace; */
+  font-weight: 500;
+  font-size: 12px;
   position: relative;
   z-index: 1;
 }

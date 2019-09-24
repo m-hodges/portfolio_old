@@ -11,4 +11,7 @@ a {
   color: inherit;
 }
 
-
+/* @font-face {
+  font-family: 'blade-runner';
+  src: url('../../public/fonts/blade_runner_movie_font/BLADRMF_.TTF') format('true-type')
+} */
