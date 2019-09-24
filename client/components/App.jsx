@@ -1,9 +1,12 @@
 import React from 'react'
+import { hot } from 'react-hot-loader/root'
+
+import Navbar from './Navbar'
 
 const App = () => {
   return (
-    <h1>React development has begun!</h1>
+    <Navbar />
   )
 }
 
-export default App
+export default hot(App)
