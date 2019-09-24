@@ -46,6 +46,7 @@ p {
   /* font-family: 'Inconsolata', monospace; */
   font-weight: 500;
   font-size: 12px;
+  transform: skewX(10deg);
   position: relative;
   z-index: 1;
 }
