@@ -53,7 +53,6 @@ const Navbar = () => {
             <hr/>
           </p>
         </a>
-        
       </div>
     </Container>
   )
